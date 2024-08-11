@@ -1,0 +1,7 @@
+Django~=4.2.6
+django-parler~=2.3
+redis~=5.0.1
+celery~=5.3.4
+python-dotenv~=1.0.1
+weasyprint~=60.1
+stripe~=7.3.0
